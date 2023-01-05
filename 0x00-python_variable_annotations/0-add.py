@@ -2,7 +2,8 @@
 """adds two float numbers"""
 
 def add(x: float, y: float) -> float:
-    """A function which retrun sum 
+    """A function which retrun sum
     of two float numbers
     """
+    
     return x + y
