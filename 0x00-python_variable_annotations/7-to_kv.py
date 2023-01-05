@@ -1,4 +1,4 @@
-#!/usr/bin/env python3i
+#!/usr/bin/env python3
 """defines afunction that retuns a tuple of string a number"""
 from typing import Tuple, Union
 
