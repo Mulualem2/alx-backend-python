@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3i
 """defines afunction that retuns a tuple of string a number"""
 from typing import Tuple, Union
 
@@ -10,4 +10,4 @@ def to_kv(k: str, v: Union[float, int]) -> Tuple[str, float]:
     annotated as a float.
     """
 
-    return tuple(k, v * v)
+    return (k, v * v)
