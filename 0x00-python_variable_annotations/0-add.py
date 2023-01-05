@@ -3,8 +3,6 @@
 
 
 def add(a: float, b: float) -> float:
-    """A function which retrun sum
-    of two float numbers a and b as a float
-    """
-    
-    return a + b
+    """A function which retrun sum of two float numbers"""
+
+    return (a + b)
